@@ -1,6 +1,7 @@
 # super-newton
 
-Experiments with Super-Universal Regularized Newton Method (see the paper https://arxiv.org/abs/2208.05888).
+Experiments with Super-Universal Regularized Newton Method (see the paper https://arxiv.org/abs/2208.05888
+by N. Doikov, K. Mishchenko, and Yu. Nesterov).
 
 1. **Polytope Feasibility** (`experiment_polytope_feasibility.ipynb`):
 
